@@ -1,2 +1,2 @@
 # DS-Projects
-Practice with github
+Practice with github.
